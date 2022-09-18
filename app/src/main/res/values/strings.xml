@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">サンプル</string>
+    <string name="title_message">電話番号を入力してください</string>
+</resources>
